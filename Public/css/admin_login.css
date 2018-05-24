@@ -1,0 +1,100 @@
+html ,body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background: url("../images/admin_loginBackground.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    /* box-shadow: 0 0 0.5rem inset; */
+    border: solid 1px transparent;
+}
+:-ms-input-placeholder {
+    color: #ffffff;
+}
+::-webkit-input-placeholder{
+    color: #ffffff;
+}
+.admin-loginOuter {
+    display: block;
+    margin: 0 auto;
+    min-width: 1200px;
+}
+.admin-loginInput {
+    background: url(../images/admin_loginBackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 7rem;
+    height: 4rem;
+    border: solid 1px #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 1rem inset;
+    margin: 0 auto;
+    margin-top: 11%;
+    padding: .5rem 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+
+}
+.admin-loginLeft {
+    flex: 1;
+    border-right: solid 1px #fff;
+}
+.admin-loginLeft p{
+    font-size: .2rem;
+    color: #fff;
+    text-shadow: 0 0 4px #000;
+    text-align: center;
+    margin-top: 35%;
+}
+.admin-loginRightInput {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.admin-loginRightInput div {
+    text-align: center;
+    width: 80%;
+    height: .3rem;
+    line-height: 0rem;
+    margin: .2rem auto;
+    padding: .05rem 0;
+    background: linear-gradient(20deg,rgba(255, 255, 255, .3),rgba(0, 0, 0, .4),rgba(255, 255, 255, .3));
+    border-radius: 10px;
+
+}
+.admin-loginRightInput p {
+    font-size: .2rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 0 3px #000;
+}
+.admin-loginRightInput div img{
+    display: inline-block;
+    width: .2rem;
+    height: .2rem;
+    vertical-align: middle;
+}
+.admin-loginRightInput div input{
+    text-align: center;
+    border: none;
+    background: none;
+    vertical-align: middle;
+    color: #fff;
+    outline: none;
+}
+.admin-loginButton {
+    width: 50%;
+    background: linear-gradient(20deg,rgba(255, 255, 255, .3),rgba(0, 0, 0, .4),rgba(255, 255, 255, .3));
+    border-radius: 10px;
+    color: #fff;
+    margin: 0 auto;
+    margin-top: .3rem;
+    padding: .1rem 0;
+}
