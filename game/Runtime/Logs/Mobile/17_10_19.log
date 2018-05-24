@@ -1,0 +1,2832 @@
+[ 2017-10-19T09:11:10+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-10-19T09:11:10+08:00 ] ::1 /peoplecar/index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.005001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.006001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:11:13+08:00 ] ::1 /peoplecar/index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:29:34+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0340s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='admin' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-10-19T09:29:34+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0300s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0400s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T09:30:04+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:31:59+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0310s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0370s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:32:04+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_memberupgrade.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0360s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:32:06+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0290s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0340s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:53:51+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:58:42+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T09:58:45+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T09:58:48+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T09:58:57+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T09:59:22+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-19T10:00:02+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:00:11+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:00:13+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:00:14+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:00:15+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:00:15+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:00:16+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:00:22+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:35:17+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:35:18+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:35:53+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:35:56+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:36:05+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:36:53+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:36:53+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:36:53+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:37:19+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:37:19+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:37:30+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:37:41+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:37:47+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:38:03+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:44:55+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:46:54+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:46:56+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:46:57+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:46:57+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:47:11+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-19T10:47:14+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:48:19+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:48:23+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:49:04+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-19T10:49:07+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:49:46+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:49:56+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:51:24+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:51:28+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:51:29+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:51:36+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:51:40+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T10:58:06+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:58:08+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T10:58:09+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:29:03+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:29:04+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:29:47+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T11:29:48+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:29:54+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:35:05+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-19T11:35:08+08:00 ] ::1 /peoplecar/index.php?s=/Usersettings/user_systemnotice.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_new` [ RunTime:0.0120s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\xampp\htdocs\peoplecar\game\Mobile\Controller\UsersettingsController.class.php on line 30 and defined D:\xampp\htdocs\peoplecar\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\peoplecar\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\peoplecar\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\peoplecar\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT * FROM `syd_new`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:35:09+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:35:11+08:00 ] ::1 /peoplecar/index.php?s=/Usersettings/user_privateemail.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_useremail` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `syd_useremail` WHERE ( uid=1 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T11:35:15+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T12:35:08+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T12:35:11+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:29:53+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T13:29:56+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:32:03+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:32:06+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:33:45+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:33:50+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:33:51+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-19T13:36:07+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:37:48+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T13:37:50+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-19T13:37:53+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:38:01+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T13:38:04+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T13:38:06+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T13:38:09+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:48:13+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:48:17+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:48:19+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Index/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:48:45+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T14:48:47+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:48:55+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:49:01+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:49:13+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-19T14:49:17+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:49:25+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:cityapply
+
+[ 2017-10-19T14:50:21+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-10-19T14:50:24+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:50:30+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:50:59+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:51:02+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:51:21+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T14:51:36+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:45:43+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:46:18+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:46:22+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:46:49+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-10-19T15:46:52+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:46:57+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:47:10+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:47:24+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:47:32+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:47:50+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:50:51+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:50:52+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:50:57+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:51:02+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0100s ]
+SQL: INSERT INTO `syd_apply_agent` (`uid`,`type`,`province`,`province_code`,`city`,`city_code`,`area`,`area_code`,`status`) VALUES ('1','3','辽宁省','210000','沈阳市','210100','和平区','210102','0') [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-10-19T15:51:03+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-19T15:51:07+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:51:11+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0110s ]
+SQL: INSERT INTO `syd_apply_agent` (`uid`,`type`,`province`,`province_code`,`city`,`city_code`,`status`) VALUES ('1','2','福建省','350000','福州市','350100','0') [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-10-19T15:51:12+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:51:15+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:51:20+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0090s ]
+SQL: INSERT INTO `syd_apply_agent` (`uid`,`type`,`province`,`province_code`,`status`) VALUES ('1','1','江西省','360000','0') [ RunTime:0.0040s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-10-19T15:51:21+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:52:52+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-10-19T15:52:55+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:52:59+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_provinceapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0100s ]
+SQL: INSERT INTO `syd_apply_agent` (`uid`,`type`,`province`,`province_code`,`time`,`status`) VALUES ('1','1','吉林省','220000','1508399579','0') [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-10-19T15:53:00+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:53:04+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:53:09+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_cityapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0100s ]
+SQL: INSERT INTO `syd_apply_agent` (`uid`,`type`,`province`,`province_code`,`city`,`city_code`,`time`,`status`) VALUES ('1','2','陕西省','610000','西安市','610100','1508399589','0') [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-10-19T15:53:10+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:53:15+08:00 ] ::1 /peoplecar/index.php?s=/servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-10-19T15:53:18+08:00 ] ::1 /peoplecar/index.php?s=/Mobile/Servicemanagement/user_areaapply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0090s ]
+SQL: INSERT INTO `syd_apply_agent` (`uid`,`type`,`province`,`province_code`,`city`,`city_code`,`area`,`area_code`,`time`,`status`) VALUES ('1','3','天津市','120000','天津市市辖区','120100','和平区','','1508399598','0') [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-10-19T15:53:19+08:00 ] ::1 /peoplecar/index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\peoplecar\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

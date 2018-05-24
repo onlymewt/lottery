@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+	<link rel="stylesheet" href="__PUBLIC__/css/stylesheet.css">
+	<link rel="stylesheet" href="__PUBLIC__/css/stylesheet_PC.css" media="screen and (min-width:1000px)">
+	<script src="__PUBLIC__/js/jquery-3.2.1.min.js"></script>
+	<script src="__PUBLIC__/js/comment.js"></script>
+    <style>
+	
+	</style>
+</head>
+<body  class="bodyHeight">
+<!--topTitle -->
+<div class="pageTitleDiv">
+	<div class="backButton">
+		返回
+	</div>
+	<span class="pageTitleText">
+		帮助文档
+	</span>
+</div>
+
+		<foreach name="helpdocument_list" item="value" key="key">
+			<!--信息块-->
+			<div class="detailsDiv">
+				<div class="details_Data">
+					{$value.title}
+					<!--向下三角形-->
+					<div style=" border-top: solid 30px #fff; border-left: solid 15px transparent; border-right: solid 15px transparent; display: inline-block;float: right;"></div>
+				</div>
+				<!--信息显示块-->
+				<div class="details_MessageRow">
+					{$value.content}
+				</div>
+				<!--信息显示块 END-->
+			</div>
+			<!--信息块 END-->
+		</foreach>
+
+
+
+</body>
+
+<script>
+  
+
+</script>
+</html>

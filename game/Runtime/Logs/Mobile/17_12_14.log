@@ -1,0 +1,2749 @@
+[ 2017-12-14T01:49:18+08:00 ] 120.52.18.51 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T01:49:18+08:00 ] 120.52.18.51 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028318s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028318s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T02:58:27+08:00 ] 120.52.18.45 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T02:58:27+08:00 ] 120.52.18.50 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T08:48:04+08:00 ] 120.52.18.51 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T08:48:04+08:00 ] 120.52.18.51 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024415s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002929s ]
+
+[ 2017-12-14T09:58:32+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T09:58:32+08:00 ] 61.160.224.141 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T09:58:52+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13509090221' ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-12-14T09:58:52+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=219 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=211 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T09:59:07+08:00 ] 61.160.224.141 /index.php?s=/Datamodify/structure.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0156s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T09:59:30+08:00 ] 61.160.224.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T09:59:30+08:00 ] 61.160.224.135 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T09:59:34+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13509090221' ) LIMIT 1   [ RunTime:0.0029s ]
+
+[ 2017-12-14T09:59:34+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=219 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:15:18+08:00 ] 120.52.18.50 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:15:18+08:00 ] 120.52.18.50 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:15:18+08:00 ] 120.52.18.50 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:15:19+08:00 ] 120.52.18.50 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001954s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001954s ]
+
+[ 2017-12-14T10:33:28+08:00 ] 61.160.224.141 /index.php?s=/Datamodify/structure.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:51:01+08:00 ] 120.52.18.53 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:51:01+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:51:02+08:00 ] 61.160.224.141 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:51:02+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:51:03+08:00 ] 61.160.224.141 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:52:01+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13823859738' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-12-14T10:52:01+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0176s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:52:10+08:00 ] 61.160.224.141 /index.php?s=/Datamodify/structure.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0029s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=200 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=205 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=201 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=215 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant 注册 - assumed '注册' D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 269 行.
+NOTIC: [8] Undefined index: five_username D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 272 行.
+NOTIC: [8] Undefined index: five_parent_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 275 行.
+NOTIC: [8] Undefined index: five_parent_username D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 275 行.
+NOTIC: [8] Use of undefined constant 注册 - assumed '注册' D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 285 行.
+NOTIC: [8] Undefined index: six_username D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 288 行.
+NOTIC: [8] Undefined index: six_parent_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 291 行.
+NOTIC: [8] Undefined index: six_parent_username D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Mobile\a8408f5edb351d1a26411f0c601e7cd5.php 第 291 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:52:11+08:00 ] 120.52.18.45 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:52:11+08:00 ] 120.52.18.46 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:52:12+08:00 ] 120.52.18.46 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:52:38+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020507s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020507s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:52:53+08:00 ] 61.160.224.141 /index.php?s=/Datamodify/user_message.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:53:00+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013673s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013673s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008789s ]
+
+[ 2017-12-14T10:53:03+08:00 ] 120.52.18.54 /index.php?s=/Datamodify/user_message.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:53:03+08:00 ] 120.52.18.54 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-14T10:53:10+08:00 ] 120.52.18.48 /index.php?s=/Datamodify/user_message.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:53:10+08:00 ] 120.52.18.48 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:53:12+08:00 ] 61.160.224.141 /index.php?s=/financemanagement/finance_detailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_getgold_record` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_getgold_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_getbonus_record` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_getbonus_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0059s ]
+SQL: SHOW COLUMNS FROM `syd_getbuycarmoney_record` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_getbuycarmoney_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_agentmoney_record` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_agentmoney_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-14T10:53:26+08:00 ] 61.160.224.141 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-14T10:53:31+08:00 ] 61.160.224.141 /index.php?s=/teamcontrol/team_recommenddetailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT `username` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( recommend_id=206 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=214 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=215 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015624s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:53:37+08:00 ] 120.52.18.45 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:53:41+08:00 ] 120.52.18.47 /index.php?s=/teamcontrol/team_recommenddetailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:53:41+08:00 ] 120.52.18.47 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:53:44+08:00 ] 120.52.18.50 /index.php?s=/teamcontrol/team_recommenddetailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:53:45+08:00 ] 61.160.224.141 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021485s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:53:48+08:00 ] 120.52.18.50 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:53:49+08:00 ] 61.160.224.141 /index.php?s=/teamcontrol/team_recommenddetailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0068s ]
+SQL: SELECT `username` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( recommend_id=206 )  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=214 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=215 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:54:06+08:00 ] 61.160.224.141 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT `leve` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_apply_agent` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-12-14T10:54:16+08:00 ] 61.160.224.141 /index.php?s=/financemanagement/finance_withdrawals.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_bank` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_bank` WHERE `uid` = 206 LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_function_parameters` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_function_parameters` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010742s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:54:16+08:00 ] 120.52.18.47 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:54:16+08:00 ] 120.52.18.47 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:54:23+08:00 ] 120.52.18.50 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:54:23+08:00 ] 120.52.18.50 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:54:25+08:00 ] 120.52.18.47 /index.php?s=/financemanagement/finance_withdrawals.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:54:26+08:00 ] 120.52.18.47 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:54:32+08:00 ] 61.160.224.141 /index.php?s=/financemanagement/finance_detailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `syd_getgold_record` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_getgold_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_getbonus_record` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_getbonus_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_getbuycarmoney_record` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_getbuycarmoney_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `syd_agentmoney_record` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_agentmoney_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:54:33+08:00 ] 120.52.18.49 /index.php?s=/financemanagement/finance_withdrawals.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T10:54:33+08:00 ] 120.52.18.49 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:54:42+08:00 ] 61.160.224.141 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:54:56+08:00 ] 61.160.224.141 /index.php?s=/financemanagement/finance_withdrawalsHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_withdraw` WHERE `uid` = 206 ORDER BY id desc  [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-14T10:55:03+08:00 ] 61.160.224.141 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002930s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002930s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:55:09+08:00 ] 61.160.224.141 /index.php?s=/teamcontrol/team_recommenddetailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0029s ]
+SQL: SELECT `username` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( recommend_id=206 )  [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=214 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=215 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013672s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T10:55:15+08:00 ] 61.160.224.141 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:55:20+08:00 ] 61.160.224.141 /index.php?s=/financemanagement/finance_detailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_getgold_record` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_getgold_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_getbonus_record` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_getbonus_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `syd_getbuycarmoney_record` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_getbuycarmoney_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_agentmoney_record` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_agentmoney_record` WHERE ( uid=206 ) ORDER BY id desc  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T10:55:38+08:00 ] 61.160.224.141 /index.php?s=/Datamodify/user_message.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0029s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T10:55:42+08:00 ] 61.160.224.141 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-14T10:55:49+08:00 ] 61.160.224.141 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0020s ]
+SQL: SELECT `leve` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_apply_agent` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-12-14T13:30:42+08:00 ] 120.52.18.49 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T13:30:42+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T13:30:42+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T13:30:42+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T13:30:42+08:00 ] 61.160.224.141 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033204s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033204s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T13:31:03+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13823859738' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-12-14T13:31:03+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T13:43:54+08:00 ] 61.160.224.141 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=206 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=200 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022462s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T13:44:03+08:00 ] 61.160.224.141 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002930s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0098s ]
+SQL: SELECT `leve` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_apply_agent` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0029s ]
+
+[ 2017-12-14T13:44:10+08:00 ] 61.160.224.141 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT `leve` FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_apply_agent` WHERE ( uid=206 ) LIMIT 1   [ RunTime:0.0029s ]
+
+[ 2017-12-14T15:42:15+08:00 ] 61.160.224.136 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T15:42:16+08:00 ] 61.160.224.136 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T15:42:16+08:00 ] 61.160.224.136 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020509s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020509s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T15:42:29+08:00 ] 61.160.224.136 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13421008895' ) LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T15:42:30+08:00 ] 61.160.224.136 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T15:42:53+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13421008895' ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-12-14T15:42:54+08:00 ] 61.160.224.136 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13421008895' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-12-14T15:42:56+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=216 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=216 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T15:43:06+08:00 ] 61.160.224.136 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=216 ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=216 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T15:43:06+08:00 ] 120.52.18.50 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T15:43:07+08:00 ] 61.160.224.136 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T15:43:28+08:00 ] 61.160.224.136 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=216 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=216 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=207 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T15:43:36+08:00 ] 61.160.224.136 /index.php?s=/teamcontrol/team_recommenddetailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT `username` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( recommend_id=216 )  [ RunTime:0.0010s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=217 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T15:43:38+08:00 ] 61.160.224.136 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=216 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=216 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023439s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023439s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T15:43:46+08:00 ] 61.160.224.136 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0068s ]
+SQL: SELECT `leve` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_apply_agent` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_apply_agent` WHERE ( uid=216 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-12-14T15:43:48+08:00 ] 120.52.18.47 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T15:43:48+08:00 ] 120.52.18.47 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015626s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015626s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T15:43:50+08:00 ] 61.160.224.136 /index.php?s=/teamcontrol/team_recommenddetailed.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT `username` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( recommend_id=216 )  [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( recommend_id=217 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T15:43:52+08:00 ] 61.160.224.136 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=216 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=216 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-12-14T15:43:55+08:00 ] 61.160.224.135 /index.php?s=/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T15:43:55+08:00 ] 61.160.224.135 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T15:43:56+08:00 ] 61.160.224.136 /index.php?s=/Datamodify/structure.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=216 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0088s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=207 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T15:43:56+08:00 ] 120.52.18.53 /index.php?s=/servicemanagement/apply.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T15:43:57+08:00 ] 120.52.18.53 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-12-14T16:00:11+08:00 ] 120.52.18.47 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T16:00:11+08:00 ] 120.52.18.47 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T16:52:32+08:00 ] 120.52.18.51 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T16:52:32+08:00 ] 120.52.18.51 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018553s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T19:41:08+08:00 ] 61.160.224.141 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T19:41:08+08:00 ] 61.160.224.141 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T19:41:09+08:00 ] 61.160.224.140 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T19:42:44+08:00 ] 120.52.18.52 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T19:42:44+08:00 ] 120.52.18.52 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T19:42:47+08:00 ] 120.52.18.52 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13509090221' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-12-14T19:42:48+08:00 ] 120.52.18.52 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=219 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=211 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015624s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T19:42:48+08:00 ] 120.52.18.52 /index.php?s=/Mobile/Regus/testid.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( account='13509090221' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-12-14T19:42:49+08:00 ] 120.52.18.52 /index.php?s=/Mobile/Index/copyPageTwo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=219 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=211 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014647s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014647s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-12-14T19:42:53+08:00 ] 120.52.18.52 /index.php?s=/Datamodify/structure.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=219 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=207 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T19:43:25+08:00 ] 120.52.18.52 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007812s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-14T23:36:08+08:00 ] 120.52.18.48 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2017-12-14T23:36:08+08:00 ] 120.52.18.48 /index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+

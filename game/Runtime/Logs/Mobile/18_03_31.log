@@ -1,0 +1,324 @@
+[ 2018-03-31T22:18:56+08:00 ] ::1 /mc/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012972s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015586s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+
+[ 2018-03-31T22:18:56+08:00 ] ::1 /mc/index.php?s=/Regus/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000821s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059157s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001827s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001874s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002835s ]
+
+[ 2018-03-31T22:19:07+08:00 ] ::1 /mc/index.php?s=/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+ERR: 无法加载控制器:Admin
+
+[ 2018-03-31T22:19:52+08:00 ] ::1 /mc/index.php?s=/Mobile/Index/copyPageTwo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=222 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0231s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=222 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=203 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=203 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=196 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030215s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030263s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000996s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001040s ]
+
+[ 2018-03-31T22:19:56+08:00 ] ::1 /mc/index.php?s=/Mobile/Index/copyPageTwo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002027s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001563s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0930s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=222 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0243s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=222 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=203 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=203 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=196 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000357s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000550s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020718s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000738s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000874s ]
+
+[ 2018-03-31T22:19:57+08:00 ] ::1 /mc/index.php?s=/Mobile/Index/copyPageTwo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001526s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=222 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=222 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=203 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=203 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=196 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000251s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025783s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025881s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001510s ]
+
+[ 2018-03-31T22:19:59+08:00 ] ::1 /mc/index.php?s=/Mobile/Index/copyPageTwo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0186s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=222 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0223s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=222 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=203 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=203 ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=196 ) LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000222s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000285s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016074s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000863s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001226s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001292s ]
+
+[ 2018-03-31T22:46:10+08:00 ] ::1 /mc/index.php?s=/Mobile/Index/copyPageTwo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011848s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0344s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `syd_store` WHERE ( uid=222 ) LIMIT 1   [ RunTime:0.0122s ]
+SQL: SHOW COLUMNS FROM `syd_group` [ RunTime:0.0165s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=222 ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=203 ) LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT `parent_id` FROM `syd_user` WHERE ( userid=203 ) LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `syd_group` WHERE ( one_id=196 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+NOTIC: [8] Undefined index: m D:\xampp\htdocs\mc\ThinkPHP\Common\functions.php 第 977 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058315s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058366s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001991s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002142s ]
+

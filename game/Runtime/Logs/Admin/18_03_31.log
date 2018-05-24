@@ -1,0 +1,335 @@
+[ 2018-03-31T22:19:17+08:00 ] ::1 /mc/index.php?s=/super
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001217s ]
+
+[ 2018-03-31T22:19:18+08:00 ] ::1 /mc/index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010054s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010113s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2018-03-31T22:19:23+08:00 ] ::1 /mc/index.php?s=/super/login/idcheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000843s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.1710s ]
+SQL: SELECT * FROM `syd_nzspuser` WHERE ( sp_username='admin' ) LIMIT 1   [ RunTime:0.0073s ]
+SQL: UPDATE `syd_nzspuser` SET `sp_logintime`='1522505963',`sp_loginip`='0.0.0.0' WHERE ( sp_id ='1' ) [ RunTime:0.0166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001143s ]
+
+[ 2018-03-31T22:19:25+08:00 ] ::1 /mc/index.php?s=/super/index/backstageSammaryPage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000816s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0093s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000829s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2018-03-31T22:19:25+08:00 ] ::1 /mc/index.php?s=/super/Index/gameNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000850s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000982s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0844s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\xampp\htdocs\mc\game\Admin\Controller\IndexController.class.php on line 34 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(gold) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0027s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\xampp\htdocs\mc\game\Admin\Controller\IndexController.class.php on line 35 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(report_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\xampp\htdocs\mc\game\Admin\Controller\IndexController.class.php on line 36 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(buycar_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\xampp\htdocs\mc\game\Admin\Controller\IndexController.class.php on line 37 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(bonus) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\xampp\htdocs\mc\game\Admin\Controller\IndexController.class.php on line 38 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(frozen_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `syd_transaction` [ RunTime:0.0408s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_transaction` WHERE ( `time` > 1522425600 AND `time` < 1522512000  ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0336s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_withdraw` WHERE ( `time` > 1522425600 AND `time` < 1522512000  ) LIMIT 1   [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0616s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( `time` > 1522425600 AND `time` < 1522512000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_getbuycarmoney_record` [ RunTime:0.0563s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbuycarmoney_record` WHERE ( `time` > 1522425600 AND `time` < 1522512000  ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `syd_getgold_record` [ RunTime:0.0306s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getgold_record` WHERE ( `time` > 1522425600 AND `time` < 1522512000  ) LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `syd_getbonus_record` [ RunTime:0.0288s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbonus_record` WHERE ( `time` > 1522425600 AND `time` < 1522512000  ) LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `syd_upside_record` [ RunTime:0.0219s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_upside_record` WHERE ( `time` > 1522425600 AND `time` < 1522512000  ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000909s ]
+
+[ 2018-03-31T22:19:49+08:00 ] ::1 /mc/index.php?s=/super/UserAdministration/administrationPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004293s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0364s ]
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\game\Admin\Controller\UserAdministrationController.class.php 第 27 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` LIMIT 1   [ RunTime:0.0039s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\xampp\htdocs\mc\game\Common\Common\function.php on line 176 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+NOTIC: [8] Undefined variable: where D:\xampp\htdocs\mc\game\Admin\Controller\UserAdministrationController.class.php 第 30 行.
+SQL: SELECT `userid`,`account`,`username`,`lockuser`,`time`,`parent_id`,`identity_card`,`phone`,`daili_id` FROM `syd_user` ORDER BY userid desc  LIMIT 0,10   [ RunTime:0.0027s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0031s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0011s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0032s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000352s ]
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050372s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004228s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004408s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007940s ]
+
+[ 2018-03-31T22:19:52+08:00 ] ::1 /mc/index.php?s=/super/UserAdministration/enter_game/userid/222
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003073s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0132s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-03-31T22:28:17+08:00 ] ::1 /mc/index.php?s=/super/ParameterProbability/functionValueResetPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009689s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016280s ]
+SQL: SHOW COLUMNS FROM `syd_function_parameters` [ RunTime:0.1208s ]
+SQL: SELECT * FROM `syd_function_parameters` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0033s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: declaration_fee D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\377ac1a00d6e50549fbc8b89ff47e03d.php 第 39 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.075017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004439s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004558s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002518s ]
+
+[ 2018-03-31T22:28:35+08:00 ] ::1 /mc/index.php?s=/super/NoticControl/emailToUserPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004326s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000134s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040791s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003944s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001890s ]
+
+[ 2018-03-31T22:28:51+08:00 ] ::1 /mc/index.php?s=/super/WealthDetailed/remittanceHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `syd_remittance` [ RunTime:0.0556s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_remittance` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\xampp\htdocs\mc\game\Common\Common\function.php on line 176 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`receivables_account`,`receivables_username`,`remittance_money`,`remittance_bank`,`remittance_user` FROM `syd_remittance` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Undefined index: time D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\9dd062dd437bc2c4eebb5ea28b204b3d.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036614s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002914s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001563s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001634s ]
+
+[ 2018-03-31T22:28:58+08:00 ] ::1 /mc/index.php?s=/super/WealthDetailed/userChargeHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+SQL: SHOW COLUMNS FROM `syd_charge` [ RunTime:0.1491s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_charge` LIMIT 1   [ RunTime:0.0018s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\xampp\htdocs\mc\game\Common\Common\function.php on line 176 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`phone`,`money`,`time`,`status` FROM `syd_charge` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047825s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047959s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001240s ]
+
+[ 2018-03-31T22:29:04+08:00 ] ::1 /mc/index.php?s=/super/WealthDetailed/userActivationDetails.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+SQL: SHOW COLUMNS FROM `syd_activation_record` [ RunTime:0.1697s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_activation_record` LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\xampp\htdocs\mc\game\Common\Common\function.php on line 176 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`account`,`username`,`time` FROM `syd_activation_record` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0035s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000300s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.047172s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047365s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002283s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005499s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005882s ]
+
+[ 2018-03-31T22:29:09+08:00 ] ::1 /mc/index.php?s=/super/WealthDetailed/remittanceHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004944s ]
+SQL: SHOW COLUMNS FROM `syd_remittance` [ RunTime:0.0309s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_remittance` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\xampp\htdocs\mc\game\Common\Common\function.php on line 176 and defined D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\xampp\htdocs\mc\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`receivables_account`,`receivables_username`,`remittance_money`,`remittance_bank`,`remittance_user` FROM `syd_remittance` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000153s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+NOTIC: [8] Undefined index: time D:\xampp\htdocs\mc\game\Runtime\Cache\Admin\9dd062dd437bc2c4eebb5ea28b204b3d.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001135s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001638s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001708s ]
+
+[ 2018-03-31T22:29:27+08:00 ] ::1 /mc/index.php?s=/super/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000918s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+ERR: 非法操作:index
+

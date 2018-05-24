@@ -1,0 +1,899 @@
+[ 2018-01-05T10:45:03+08:00 ] 120.52.18.46 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.240219s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.240219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T10:45:18+08:00 ] 120.52.18.46 /index.php?s=/super/login/idcheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0371s ]
+SQL: SELECT * FROM `syd_nzspuser` WHERE ( sp_username='admin' ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: UPDATE `syd_nzspuser` SET `sp_logintime`='1515120318',`sp_loginip`='120.52.18.46' WHERE ( sp_id ='1' ) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T10:45:23+08:00 ] 120.52.18.46 /index.php?s=/super/index/backstageSammaryPage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0107s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081058s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081058s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T10:45:24+08:00 ] 120.52.18.46 /index.php?s=/super/Index/gameNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0195s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 34 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(gold) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 35 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(report_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 36 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(buycar_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 37 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(bonus) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 38 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(frozen_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_transaction` [ RunTime:0.0254s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_transaction` WHERE ( `time` > 1515081600 AND `time` < 1515168000  ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0283s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_withdraw` WHERE ( `time` > 1515081600 AND `time` < 1515168000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0439s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( `time` > 1515081600 AND `time` < 1515168000  ) LIMIT 1   [ RunTime:0.0391s ]
+SQL: SHOW COLUMNS FROM `syd_getbuycarmoney_record` [ RunTime:0.0527s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbuycarmoney_record` WHERE ( `time` > 1515081600 AND `time` < 1515168000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_getgold_record` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getgold_record` WHERE ( `time` > 1515081600 AND `time` < 1515168000  ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_getbonus_record` [ RunTime:0.0635s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbonus_record` WHERE ( `time` > 1515081600 AND `time` < 1515168000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_upside_record` [ RunTime:0.0068s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_upside_record` WHERE ( `time` > 1515081600 AND `time` < 1515168000  ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000976s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.039064s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.039064s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T10:45:30+08:00 ] 120.52.18.54 /index.php?s=/super/UserAdministration/administrationPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 27 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 30 行.
+SQL: SELECT `userid`,`account`,`username`,`lockuser`,`time`,`parent_id`,`identity_card`,`phone`,`daili_id` FROM `syd_user` ORDER BY userid desc  LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029298s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029298s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-01-05T10:48:15+08:00 ] 120.52.18.49 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:23:07+08:00 ] 120.52.18.47 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:23:09+08:00 ] 120.52.18.52 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-01-05T11:48:15+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/userActivationDetails.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_activation_record` [ RunTime:0.0156s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_activation_record` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`account`,`username`,`time` FROM `syd_activation_record` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027344s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027344s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:48:59+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/userTransactionHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_transaction` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_transaction` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT * FROM `syd_transaction` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:49:02+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/userCapitalOffset.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_store` LIMIT 1   [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT * FROM `syd_store` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=221 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=220 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=218 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=215 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=214 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=213 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2018-01-05T11:49:04+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/userCapitalOffset.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_store` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT * FROM `syd_store` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=222 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=221 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=220 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=219 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=218 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=215 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=214 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=213 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-01-05T11:49:08+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/remittanceHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_remittance` [ RunTime:0.0146s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_remittance` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`receivables_account`,`receivables_username`,`remittance_money`,`remittance_bank`,`remittance_user` FROM `syd_remittance` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: time D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\9dd062dd437bc2c4eebb5ea28b204b3d.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031251s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:49:14+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021483s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:49:18+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-01-05T11:49:21+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T11:49:21+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-01-05T11:49:21+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008788s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008788s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-01-05T11:49:31+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/updateCash/id/24
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0039s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0039s ]
+SQL: UPDATE `syd_withdraw` SET `status`='1' WHERE ( id=24 ) [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_withdraw` WHERE ( id=24 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_management_operation` [ RunTime:0.0166s ]
+SQL: INSERT INTO `syd_management_operation` (`sp_id`,`userid`,`type`,`time`) VALUES ('1','204','提现审核','1515124171') [ RunTime:0.0156s ]
+
+[ 2018-01-05T11:49:33+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-01-05T11:49:35+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0068s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2018-01-05T11:49:37+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/updateCash/id/25
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0068s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0059s ]
+SQL: UPDATE `syd_withdraw` SET `status`='1' WHERE ( id=25 ) [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_withdraw` WHERE ( id=25 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_management_operation` [ RunTime:0.0059s ]
+SQL: INSERT INTO `syd_management_operation` (`sp_id`,`userid`,`type`,`time`) VALUES ('1','196','提现审核','1515124177') [ RunTime:0.0010s ]
+
+[ 2018-01-05T11:49:41+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T11:49:46+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/bonusDetails.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_bonus_record` [ RunTime:0.0127s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_bonus_record` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT * FROM `syd_bonus_record` ORDER BY id desc  LIMIT 0,30   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=210 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=213 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=192 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=212 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017577s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:49:49+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/bonusDetails.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_bonus_record` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_bonus_record` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT * FROM `syd_bonus_record` ORDER BY id desc  LIMIT 0,30   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=210 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=217 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=213 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=216 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=202 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=206 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=192 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=212 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=211 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T11:49:53+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2018-01-05T11:49:54+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/remittanceHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_remittance` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_remittance` LIMIT 1   [ RunTime:0.0039s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`receivables_account`,`receivables_username`,`remittance_money`,`remittance_bank`,`remittance_user` FROM `syd_remittance` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: time D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\9dd062dd437bc2c4eebb5ea28b204b3d.php 第 65 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2018-01-05T11:49:56+08:00 ] 120.52.18.46 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=204 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=193 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009765s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

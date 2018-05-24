@@ -1,0 +1,28 @@
+[ 2018-03-30T19:33:26+08:00 ] ::1 /mc/index.php?s=/super
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011130s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011210s ]
+
+[ 2018-03-30T19:33:26+08:00 ] ::1 /mc/index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.011358s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.011468s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001650s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002063s ]
+

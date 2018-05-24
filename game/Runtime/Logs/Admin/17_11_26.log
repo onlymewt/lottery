@@ -1,0 +1,1253 @@
+[ 2017-11-26T20:29:43+08:00 ] 183.52.123.1 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025392s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T20:29:53+08:00 ] 183.52.123.1 /index.php?s=/super/login/idcheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_nzspuser` WHERE ( sp_username='admin' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: UPDATE `syd_nzspuser` SET `sp_logintime`='1511699393',`sp_loginip`='183.52.123.1' WHERE ( sp_id ='1' ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:29:54+08:00 ] 101.226.33.224 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:29:54+08:00 ] 183.52.123.1 /index.php?s=/super/index/backstageSammaryPage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0059s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:29:55+08:00 ] 183.52.123.1 /index.php?s=/super/Index/gameNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 34 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(gold) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 35 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(report_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 36 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(buycar_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 37 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(bonus) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 38 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(frozen_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_transaction` [ RunTime:0.0039s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_transaction` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0049s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_withdraw` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0020s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_getbuycarmoney_record` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbuycarmoney_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_getgold_record` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getgold_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_getbonus_record` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbonus_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_upside_record` [ RunTime:0.0020s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_upside_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T20:30:05+08:00 ] 101.226.66.191 /index.php?s=/super/Index/gameNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:05+08:00 ] 101.226.66.191 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:06+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=201 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:16+08:00 ] 101.226.33.224 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T20:30:16+08:00 ] 101.226.33.224 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T20:30:19+08:00 ] 183.52.123.1 /index.php?s=/super/UserAdministration/administrationPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 27 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 30 行.
+SQL: SELECT `userid`,`account`,`username`,`lockuser`,`time`,`parent_id`,`identity_card`,`phone`,`daili_id` FROM `syd_user` ORDER BY userid desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014649s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:30:21+08:00 ] 183.52.123.1 /index.php?s=/super/UserAdministration/enter_game/userid/220
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0029s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-11-26T20:30:28+08:00 ] 183.52.123.1 /index.php?s=/super/UserAdministration/administrationPage/p/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0088s ]
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 27 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` LIMIT 1   [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 30 行.
+SQL: SELECT `userid`,`account`,`username`,`lockuser`,`time`,`parent_id`,`identity_card`,`phone`,`daili_id` FROM `syd_user` ORDER BY userid desc  LIMIT 10,10   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0049s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013671s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:29+08:00 ] 101.226.102.97 /index.php?s=/super/UserAdministration/administrationPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:30:30+08:00 ] 101.226.102.97 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T20:30:31+08:00 ] 101.226.33.201 /index.php?s=/super/UserAdministration/administrationPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:31+08:00 ] 101.226.33.201 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:31+08:00 ] 101.226.33.204 /index.php?s=/super/UserAdministration/enter_game/userid/220
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:32+08:00 ] 101.226.33.204 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003906s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018554s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:30:32+08:00 ] 183.52.123.1 /index.php?s=/super/UserAdministration/administrationPage/p/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0059s ]
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 27 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 30 行.
+SQL: SELECT `userid`,`account`,`username`,`lockuser`,`time`,`parent_id`,`identity_card`,`phone`,`daili_id` FROM `syd_user` ORDER BY userid desc  LIMIT 20,10   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041990s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041990s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:30:35+08:00 ] 183.52.123.1 /index.php?s=/super/UserAdministration/enter_game/userid/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0049s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-11-26T20:30:43+08:00 ] 61.151.207.252 /index.php?s=/super/UserAdministration/administrationPage/p/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T20:30:44+08:00 ] 61.151.207.252 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001953s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008790s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:46+08:00 ] 101.226.33.206 /index.php?s=/super/UserAdministration/enter_game/userid/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:47+08:00 ] 101.226.33.206 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:30:47+08:00 ] 101.226.102.97 /index.php?s=/super/UserAdministration/enter_game/userid/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:47+08:00 ] 101.226.102.97 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:30:48+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/cashHistory.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=201 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010743s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T20:33:35+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/updateCash/id/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0068s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0039s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0039s ]
+SQL: UPDATE `syd_withdraw` SET `status`='1' WHERE ( id=19 ) [ RunTime:0.0029s ]
+SQL: SELECT * FROM `syd_withdraw` WHERE ( id=19 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_management_operation` [ RunTime:0.0059s ]
+SQL: INSERT INTO `syd_management_operation` (`sp_id`,`userid`,`type`,`time`) VALUES ('1','198','提现审核','1511699615') [ RunTime:0.0020s ]
+
+[ 2017-11-26T20:33:37+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/cashHistory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=201 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018556s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:33:47+08:00 ] 101.226.33.223 /index.php?s=/super/WealthDetailed/cashHistory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:33:47+08:00 ] 101.226.65.104 /index.php?s=/super/WealthDetailed/updateCash/id/19
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:33:48+08:00 ] 101.226.33.223 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:33:48+08:00 ] 101.226.65.104 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001953s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006837s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:35:04+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/updateCash/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0039s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0049s ]
+SQL: UPDATE `syd_withdraw` SET `status`='1' WHERE ( id=20 ) [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_withdraw` WHERE ( id=20 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_management_operation` [ RunTime:0.0098s ]
+SQL: INSERT INTO `syd_management_operation` (`sp_id`,`userid`,`type`,`time`) VALUES ('1','190','提现审核','1511699704') [ RunTime:0.0039s ]
+
+[ 2017-11-26T20:35:06+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/cashHistory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0049s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=201 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012696s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:35:07+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/updateCash/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0029s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0039s ]
+SQL: UPDATE `syd_withdraw` SET `status`='1' WHERE ( id=21 ) [ RunTime:0.0049s ]
+SQL: SELECT * FROM `syd_withdraw` WHERE ( id=21 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_management_operation` [ RunTime:0.0098s ]
+SQL: INSERT INTO `syd_management_operation` (`sp_id`,`userid`,`type`,`time`) VALUES ('1','199','提现审核','1511699707') [ RunTime:0.0029s ]
+
+[ 2017-11-26T20:35:08+08:00 ] 183.52.123.1 /index.php?s=/super/WealthDetailed/cashHistory
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_withdraw` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+SQL: SELECT `id`,`uid`,`realname`,`bank_name`,`bank_address`,`bank_card`,`money`,`status`,`time`,`reason`,`charge` FROM `syd_withdraw` ORDER BY id desc  LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=190 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=196 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=198 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=201 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `syd_user` WHERE ( userid=199 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:35:15+08:00 ] 101.226.65.108 /index.php?s=/super/WealthDetailed/updateCash/id/20
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T20:35:16+08:00 ] 101.226.65.108 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000977s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:35:17+08:00 ] 101.226.65.104 /index.php?s=/super/WealthDetailed/updateCash/id/21
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T20:35:18+08:00 ] 101.226.65.104 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000976s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009766s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009766s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T22:01:14+08:00 ] 61.160.224.135 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T22:01:18+08:00 ] 61.160.224.135 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-11-26T22:01:27+08:00 ] 61.160.224.135 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T22:01:37+08:00 ] 61.160.224.140 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T22:02:09+08:00 ] 61.160.224.135 /index.php?s=/super/login/idcheck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `syd_nzspuser` WHERE ( sp_username='admin' ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: UPDATE `syd_nzspuser` SET `sp_logintime`='1511704929',`sp_loginip`='61.160.224.135' WHERE ( sp_id ='1' ) [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-11-26T22:02:11+08:00 ] 61.160.224.135 /index.php?s=/super/index/backstageSammaryPage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `syd_nzspuser` [ RunTime:0.0029s ]
+SQL: SELECT `power` FROM `syd_nzspuser` WHERE ( sp_id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011719s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T22:02:11+08:00 ] 61.160.224.135 /index.php?s=/super/Index/gameNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_store` [ RunTime:0.0049s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 34 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(gold) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0029s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 35 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(report_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 36 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(buycar_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 37 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(bonus) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] Missing argument 1 for Think\Model::where(), called in D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\IndexController.class.php on line 38 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1797 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1805 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1808 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Model.class.php 第 1816 行.
+SQL: SELECT SUM(frozen_money) AS tp_sum FROM `syd_store` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `syd_transaction` [ RunTime:0.0059s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_transaction` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_withdraw` [ RunTime:0.0059s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_withdraw` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_getbuycarmoney_record` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbuycarmoney_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `syd_getgold_record` [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getgold_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `syd_getbonus_record` [ RunTime:0.0029s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_getbonus_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SHOW COLUMNS FROM `syd_upside_record` [ RunTime:0.0039s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `syd_upside_record` WHERE ( `time` > 1511625600 AND `time` < 1511712000  ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T22:02:14+08:00 ] 61.160.224.135 /index.php?s=/super/UserAdministration/administrationPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `syd_user` [ RunTime:0.0029s ]
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 27 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `syd_user` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Missing argument 2 for Think\Page::setConfig(), called in D:\wwwroot\jpyc03\wwwroot\game\Common\Common\function.php on line 176 and defined D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 58 行.
+NOTIC: [2] Illegal offset type in isset or empty D:\wwwroot\jpyc03\wwwroot\ThinkPHP\Library\Think\Page.class.php 第 59 行.
+NOTIC: [8] Undefined variable: where D:\wwwroot\jpyc03\wwwroot\game\Admin\Controller\UserAdministrationController.class.php 第 30 行.
+SQL: SELECT `userid`,`account`,`username`,`lockuser`,`time`,`parent_id`,`identity_card`,`phone`,`daili_id` FROM `syd_user` ORDER BY userid desc  LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `account` FROM `syd_user` WHERE ( userid=194 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: daili_account D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 63 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+NOTIC: [8] Undefined index: buycar_status D:\wwwroot\jpyc03\wwwroot\game\Runtime\Cache\Admin\84ae4299843d77ca40815b68eb67b7fb.php 第 55 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-11-26T22:02:20+08:00 ] 61.160.224.139 /index.php?s=/super/Index/gameNotice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T22:02:21+08:00 ] 61.160.224.139 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T22:02:24+08:00 ] 61.160.224.140 /index.php?s=/super/UserAdministration/administrationPage.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T22:02:24+08:00 ] 61.160.224.140 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-11-26T22:04:05+08:00 ] 61.160.224.135 /index.php?s=/super/Index/outlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T22:04:06+08:00 ] 61.160.224.135 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001953s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001953s ]
+
+[ 2017-11-26T22:04:15+08:00 ] 61.160.224.140 /index.php?s=/super/Index/outlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T22:04:15+08:00 ] 61.160.224.140 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T22:04:46+08:00 ] 61.160.224.135 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006836s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
+[ 2017-11-26T22:04:52+08:00 ] 61.160.224.139 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000977s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000977s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005859s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-26T22:08:12+08:00 ] 120.52.18.54 /index.php?s=/super/Login/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000976s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008789s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000976s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000977s ]
+
